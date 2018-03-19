@@ -1,0 +1,15 @@
+element.style {
+}
+.mb-0, .my-0 {
+    margin-bottom: 0!important;
+}
+h1 {
+    font-size: 6rem;
+    line-height: 5.5rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Source Han Sans',Source Han Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40;
+}
